@@ -1,0 +1,12 @@
+[project]
+name = "wrief"
+version = "0.1.0"
+description = "HTTP Server built on top of Rust for Python. "
+readme = "README.md"
+dependencies = []
+
+[tool.uv]
+dev-dependencies = [
+    "pre-commit>=4.0.0",
+    "ruff>=0.6.9",
+]
