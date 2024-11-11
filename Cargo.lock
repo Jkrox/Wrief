@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "Wrief"
+name = "wrief"
 version = "0.1.0"

@@ -1,5 +1,5 @@
 [package]
-name = "Wrief"
+name = "wrief"
 version = "0.1.0"
 edition = "2021"
 description = "A HTTP server that can be used for Python."
